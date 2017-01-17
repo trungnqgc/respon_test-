@@ -18,6 +18,7 @@ public class JavaApplication7 {
         // TODO code application logic here
         int a=5;
         int b=6;
+        System.out.println("day la mot bai rat hay");
     }
     
 }
